@@ -1,5 +1,5 @@
 # Server-Scripts
-Scripts created to help in managing Windows domain
+Scripts created to help in managing Windows domain:
 
 Server-GetOpenPorts
 Returns open ports on local computer
